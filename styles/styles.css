@@ -100,6 +100,9 @@ header, footer {
 
 header {
     margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 main {
@@ -122,6 +125,7 @@ header a {
 }
 
 header nav ul {
+    display: flex;
     gap: 15px;
 }
 
