@@ -127,6 +127,10 @@ header a {
     line-height: 50px;
 }
 
+header h1 {
+    margin-right: auto;
+}
+
 header nav ul {
     display: flex;
     gap: 15px;
