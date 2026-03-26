@@ -98,8 +98,11 @@ header, footer {
     background-color: #c74365;
 }
 
-header .fixed-width {
+header {
     margin-bottom: 30px;
+}
+
+header .fixed-width {
     display: flex;
     justify-content: space-between;
     align-items: center;
